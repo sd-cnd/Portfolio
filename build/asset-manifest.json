@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20a239cc.css",
+    "main.js": "/static/js/main.58df646b.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Screenshot (28).png": "/static/media/Screenshot (28).68f3997d79479d0c726f.png",
+    "static/media/Venus-removebg-preview.png": "/static/media/Venus-removebg-preview.4a71142ec1d275c632f2.png",
+    "static/media/Mars-removebg-preview.png": "/static/media/Mars-removebg-preview.975cd6aa5ae74b5d13dc.png",
+    "static/media/Header_moon.png": "/static/media/Header_moon.c67c79afc70fafe5e716.png",
+    "static/media/skills-austro-removebg-preview.png": "/static/media/skills-austro-removebg-preview.c858459f3d265ecb5475.png",
+    "static/media/mercury-removebg-preview.png": "/static/media/mercury-removebg-preview.c83c3bbad5186be737c5.png",
+    "static/media/space.png": "/static/media/space.a69aa1b1cb818b4480f1.png",
+    "static/media/Sumit.jpg": "/static/media/Sumit.7a45360f95a1352214fe.jpg",
+    "static/media/earth-removebg-preview.png": "/static/media/earth-removebg-preview.b87e98b7a7d74e440315.png",
+    "static/media/LeetCode_logo.png": "/static/media/LeetCode_logo.c78fc082f2b4c496259f.png",
+    "static/media/GeeksforGeeks (2).png": "/static/media/GeeksforGeeks (2).45dc73d98642d6493a8c.png",
+    "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/index.html",
+    "main.20a239cc.css.map": "/static/css/main.20a239cc.css.map",
+    "main.58df646b.js.map": "/static/js/main.58df646b.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20a239cc.css",
+    "static/js/main.58df646b.js"
+  ]
+}
